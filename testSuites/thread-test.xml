@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="testSuites">
+  <test thread-count="5" name="purchase">
+    <classes>
+      <class name="priyaseleniumlearning.testComponents.BaseTest"/>
+      <class name="priyaseleniumlearning.tests.ErrorValidationTest"/>
+      <class name="priyaseleniumlearning.tests.SubmitOrderTest"/>
+    </classes>
+  </test> <!-- purchase -->
+</suite> <!-- testSuites -->

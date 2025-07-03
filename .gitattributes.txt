@@ -1,0 +1,7 @@
+# Force text files to use LF line endings in the repo
+* text=auto
+
+# Specific types can be handled explicitly if needed
+*.java text
+*.xml  text
+*.feature text

@@ -1,0 +1,10 @@
+priyaseleniumlearning\pageobjects\CartPage.class
+priyaseleniumlearning\common\AbstractComponent.class
+priyaseleniumlearning\pageobjects\ConfirmationPage.class
+priyaseleniumlearning\pageobjects\ProductCatalogue.class
+priyaseleniumlearning\pageobjects\RegistrationCopilot.class
+priyaseleniumlearning\utilities\JavaScriptUtil.class
+priyaseleniumlearning\pageobjects\LandingPage.class
+priyaseleniumlearning\resources\ExtentReporterFm.class
+priyaseleniumlearning\pageobjects\OrdersPage.class
+priyaseleniumlearning\pageobjects\CheckoutPage.class
