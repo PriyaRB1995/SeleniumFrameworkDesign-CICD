@@ -30,7 +30,7 @@ public class StandAloneTest {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 		driver.manage().window().maximize();
 		
-		//Checking for CICD
+		//Checking for CICD testing
         //Browser setup
 		driver.get("https://rahulshettyacademy.com/client/");
 		//Login setup
